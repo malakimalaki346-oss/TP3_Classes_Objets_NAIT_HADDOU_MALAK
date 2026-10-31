@@ -1,6 +1,6 @@
 # TP 3 : Classes et Objets (C#)
 
-**Réalisé par :** NAIT HADDOU Malak
+**Réalisé par :** NAIT HADDOU MALAK
 
 **Module :** DotNet / Programmation Orientée Objet
 
